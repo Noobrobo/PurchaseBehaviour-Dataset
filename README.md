@@ -2,10 +2,6 @@
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/purchasebehaviour-sql?style=for-the-badge)](https://github.com/yourusername/purchasebehaviour-sql/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/purchasebehaviour-sql?style=for-the-badge)](https://github.com/yourusername/purchasebehaviour-sql/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/purchasebehaviour-sql?style=for-the-badge)](https://github.com/yourusername/purchasebehaviour-sql/issues)
-
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -212,7 +208,7 @@ A comprehensive **SQL portfolio project** demonstrating advanced data analysis c
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/purchasebehaviour-sql.git
+git clone https://github.com/Noobrobo/purchasebehaviour-sql.git
 
 # 2. Navigate to project directory
 cd purchasebehaviour-sql
@@ -308,9 +304,9 @@ By completing this project, I've demonstrated proficiency in:
 
 ### 👀 Profile Views Counter
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Noobrobo&style=for-the-badge&color=blueviolet)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.purchasebehaviour-sql)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Noobrobo.purchasebehaviour-sql)
 
 </div>
 
